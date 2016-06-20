@@ -1,6 +1,9 @@
 # MATLAB-Projects
-Projects created using MATLAB.
-Projects include: 
+Projects created using MATLAB for Models I and Models II at the University of Cincinnati
+
+
+.
+Games include: 
 * Connect 4 
 * Pig (The dice game)
 
